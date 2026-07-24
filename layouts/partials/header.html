@@ -52,4 +52,7 @@
 	{{- end }}
 	
 	{{ if .Params.mathjax }}{{ partial "mathjax_support.html" . }}{{ end }}
+
+	{{ template "_internal/google_analytics.html" . }}
+
 </head>
