@@ -6,6 +6,7 @@ tags = ["teaching"]
 categories = ["teaching"]
 draft = false
 type = "teaching"
+hidden = true
 +++
 
 -   [Schedule](/pdf_files/novopokrovka/schedule.html)

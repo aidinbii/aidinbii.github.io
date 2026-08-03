@@ -6,6 +6,7 @@ tags = ["teaching", "tools"]
 categories = ["teaching"]
 draft = false
 type = "teaching"
+hidden = true
 +++
 
 <textarea id="studentsInput" placeholder="Enter student names, one per line" rows="10" cols="50"></textarea><br><br>

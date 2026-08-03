@@ -29,7 +29,7 @@ summaryLength = 20
     subtitle = "Welcome to my blog"
 
     # Content types which are included in home page recent posts list.
-    mainSections = ["posts", "lists"]
+    mainSections = ["posts", "lists", "teaching"]
 
     # Content types which are excludes Disqus comments.
     disableDisqusTypes = ["page"]

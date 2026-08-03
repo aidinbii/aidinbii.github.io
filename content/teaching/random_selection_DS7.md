@@ -6,6 +6,7 @@ tags = ["teaching", "tools"]
 categories = ["teaching"]
 draft = false
 type = "teaching"
+hidden = true
 +++
 
 <input type="number" id="numberInput" placeholder="Enter the number of selections" min="1">
