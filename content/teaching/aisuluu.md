@@ -9,8 +9,9 @@ draft = false
 type = "teaching"
 +++
 
+![](/images/aisuluu/logo.png "AIsuluu")
+
 [AIsuluu](https://aisuluu.aidinbii.me/) is a project for AI-assisted grading of handwritten math work.
 Teachers manage students and assignments; students submit photos of their solutions and get feedback.
 
 -   [Open AIsuluu](https://aisuluu.aidinbii.me/)
--   [Rules for submitting work](/pdf_files/novopokrovka/ai_grader_protocol.html)
